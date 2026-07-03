@@ -1,0 +1,16 @@
+LICENSE
+README.md
+pyproject.toml
+src/autofeature/__init__.py
+src/autofeature/categorical.py
+src/autofeature/cyclical.py
+src/autofeature/engineer.py
+src/autofeature/leakage.py
+src/autofeature/pipeline.py
+src/autofeature/selector.py
+src/sufyaan_autofeature.egg-info/PKG-INFO
+src/sufyaan_autofeature.egg-info/SOURCES.txt
+src/sufyaan_autofeature.egg-info/dependency_links.txt
+src/sufyaan_autofeature.egg-info/requires.txt
+src/sufyaan_autofeature.egg-info/top_level.txt
+tests/test_basic.py
